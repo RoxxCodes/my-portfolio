@@ -71,3 +71,4 @@ src/
 ├── content/                # All editable content
 └── lib/                    # Small utilities
 ```
+
