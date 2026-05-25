@@ -21,10 +21,10 @@ export function Hero() {
             </div>
 
             <h1 className="text-5xl md:text-6xl font-bold tracking-tight text-balance leading-[1.05]">
-              Hi, I'm <span className="text-gradient">Roshan Gupta</span>.
+              Hi, I&apos;m <span className="text-gradient">Roshan Gupta</span>.
               <br />
               <span className="text-muted-foreground/90 text-3xl md:text-4xl font-medium">
-                I build backend systems that don't fall over at 3am.
+                I build backend systems that don&apos;t fall over at 3am.
               </span>
             </h1>
 
@@ -48,12 +48,12 @@ export function Hero() {
               >
                 Download résumé
               </a>
-              <a
+              <Link
                 href="/writing"
                 className="inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium text-muted-foreground hover:text-foreground transition"
               >
                 Read notes →
-              </a>
+              </Link>
             </div>
 
             <div className="mt-10 flex items-center gap-5 text-sm text-muted-foreground">

@@ -3,7 +3,7 @@ export function Post1() {
     <>
       <p>
         Our subscription processing pipeline was timing out on large tenants.
-        Not occasionally — predictably, every billing cycle. The fix didn't
+        Not occasionally — predictably, every billing cycle. The fix didn&apos;t
         require a new database, a bigger instance, or a fancy cache. It
         required <strong>looking at the access pattern instead of the
         code</strong>.
